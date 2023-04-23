@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vitoraugustosilva
+- 👋 Hi, I’m @vitoraugustosilva
 - 🌱 I’m currently learning about programming
 - 💻 I'm looking to collaborate on projects
 - ❗❗ I’m interested in looking materials for my studies : programming
